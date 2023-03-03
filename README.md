@@ -7,5 +7,5 @@ the task from hackerrank is saved as pdf for one to have a look at
 the problem statements too.
 
 ## Links
-- [Hacker Rank Page](https://www.hackerrank.com/manikSom)
+- [my Hacker Rank Page](https://www.hackerrank.com/manikSom)
 
